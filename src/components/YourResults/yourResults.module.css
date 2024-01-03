@@ -1,7 +1,7 @@
 .size {
 	box-sizing: border-box;
 	width: 375px;
-	height: 356px;
+	height: 456px;
 	padding: 40px;
 }
 .colorBackGround {
@@ -10,7 +10,16 @@
 	border-radius: 10px;
 }
 .backPuntuation {
-	background-color: linear-gradient(purple, white);
+	background-image: linear-gradient(#4c20f9, #8668fc);
+	border-radius: 50%;
+	width: 200px;
+	height: 200px;
+	margin-left: auto;
+	margin-right: auto;
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	flex-direction: column;
 }
 .xlSize {
 	font-size: 80px;

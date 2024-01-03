@@ -9,17 +9,30 @@
 	width: 375px;
 	margin: 10px 0px;
 	border-radius: 10px;
+	height: 60px;
 }
 
 .red {
 	background-color: #ff555528;
 }
+.redName {
+	color: red;
+}
 .orange {
 	background-color: #ffb01e4f;
+}
+.orangeName {
+	color: orange;
 }
 .green {
 	background-color: #00bb8f45;
 }
+.greenName {
+	color: green;
+}
 .blue {
 	background-color: #1125d64a;
+}
+.blueName {
+	color: blue;
 }

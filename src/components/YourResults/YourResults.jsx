@@ -7,7 +7,7 @@ const YourResults = props => {
 		>
 			<h3>{props.title}</h3>
 			<div className={style.backPuntuation}>
-				<p className={`${style.xlSize}`}>{props.puntuation}</p>
+				<p className={`${style.xlSize} `}>{props.puntuation}</p>
 				<p>{props.totalPuntuation}</p>
 			</div>
 			<h2>{props.calification}</h2>
