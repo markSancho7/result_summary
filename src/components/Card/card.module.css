@@ -1,0 +1,25 @@
+.organitation {
+	box-sizing: border-box;
+	display: grid;
+	grid-template-columns: 25px 150px 80px;
+	grid-template-rows: 50px;
+	align-items: center;
+	padding: 5px;
+	justify-content: center;
+	width: 375px;
+	margin: 10px 0px;
+	border-radius: 10px;
+}
+
+.red {
+	background-color: #ff555528;
+}
+.orange {
+	background-color: #ffb01e4f;
+}
+.green {
+	background-color: #00bb8f45;
+}
+.blue {
+	background-color: #1125d64a;
+}

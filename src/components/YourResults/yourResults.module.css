@@ -1,0 +1,22 @@
+.size {
+	box-sizing: border-box;
+	width: 375px;
+	height: 356px;
+	padding: 40px;
+}
+.colorBackGround {
+	background-color: #7755ff;
+	text-align: center;
+	border-radius: 10px;
+}
+.backPuntuation {
+	background-color: linear-gradient(purple, white);
+}
+.xlSize {
+	font-size: 80px;
+	padding: 0px;
+	margin: 0px;
+}
+.fontColor {
+	color: white;
+}

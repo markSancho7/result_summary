@@ -1,0 +1,8 @@
+.buttonStyle {
+	border: none;
+	padding: 10px 40px;
+	border-radius: 15px;
+	color: white;
+	background-color: #7755ff;
+	width: 375px;
+}
